@@ -33,8 +33,9 @@ const questions = [
             message: 'Do you have any collaborators ?'
         },
         {
-            type: 'input', 
+            type: 'checkbox', 
             name: 'license',
+            choices: ["MIT" , "Boost Software License" , "Apache License 2.0"],
             message: 'What kind of license does this project have'
         },
         {
