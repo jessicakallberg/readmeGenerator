@@ -1,23 +1,23 @@
-# jflafa;fa
+# Fun Time
     
 ## Description 
-    jdaf;adlka;af
+    just some pretty cool peeps relaxing having a good time
 
 ## Installation 
-    dl;a;adk;add;ads
+    no steps just hop on the website and have a good time
     
 
 ## Credits 
-    ajk;l;fl;ad
+    nope just mua
     
 
 ## License 
-    
+    MIT
     
     
 
 ## Badges 
-    ;lak;a;fadkjljf;
+    many my biggest is the badge of love!
     
 
 ## Contribution 
@@ -25,5 +25,5 @@
     
 
 ## Tests 
-    fdl;aj;lafd;
+    not at the moment
     

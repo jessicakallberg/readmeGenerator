@@ -20,7 +20,7 @@ const questions = [
         {
             type: 'input', 
             name: 'installation',
-            message: 'What are the steps? you need to install your project?'
+            message: 'What are the steps you need to install your project?'
         },
         {
             type: 'input', 
@@ -30,18 +30,23 @@ const questions = [
         {
             type: 'input', 
             name: 'credits',
-            message: 'Do you have any collaborators ?'
+            message: 'Do you have any collaborators?'
         },
         {
-            type: 'checkbox', 
+            type: 'list', 
             name: 'license',
-            choices: ["MIT" , "Boost Software License" , "Apache License 2.0"],
-            message: 'What kind of license does this project have'
+            choices: ["MIT" , "Boost Software License" , "Apache License 2.0", "NONE"],
+            message: 'What kind of license does this project have?'
         },
         {
             type: 'input', 
             name: 'badges',
-            message: ''
+            message: 'What kind of badges does this project have? ',
+        },
+        {
+            type: 'input', 
+            name: 'contributors',
+            message: 'Any contributors on this project?'
         },
         {
             type: 'input', 
@@ -60,11 +65,11 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-  console.log('starting app...');
-  inquirer.prompt(questions).then((answers) => {
-      console.log(answers)
+    console.log('starting app...');
+    inquirer.prompt(questions).then((answers) => {
+    console.log(answers)
       //pass the answers into the generate markdown function as the second parameter of the write to file function
-      writeToFile('readme.md', generateMarkdown(answers))
+        writeToFile('readme.md', generateMarkdown(answers))
     })
 
 }
