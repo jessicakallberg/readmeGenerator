@@ -41,12 +41,13 @@ const questions = [
         {
             type: 'input', 
             name: 'badges',
-            message: 'What kind of badges does this project have? ',
+            message: 'What kind of badges does this project have? '
         },
         {
-            type: 'input', 
-            name: 'contributors',
-            message: 'Any contributors on this project?'
+            type: 'list', 
+            name: 'contribution',
+            choices:["Follows Contributors Covenant 2.1 because their is more than one contributor in this project or additional contributors allowed to add", "Does not follow Contributors Covenant 2.1 as their is only a single contributor to this project, additional contributors not allowed"],
+            message: 'Does this project follow the contributors covenant 2.1?'
         },
         {
             type: 'input', 
@@ -84,24 +85,3 @@ init();
 
 
 
-// //write a function to start the app
-
-// function startApp() {
-//     console.log('starting app')
-//     //get user feedback about readme
-//     inquirer
-//   .prompt([
-//     /* Pass your questions in here */
-//     
-//   ])
-//   .then((answers) => {
-//     console.log(answers)
-//   })
-//   .catch((error) => {
-//     if (error.isTtyError) {
-//       // Prompt couldn't be rendered in the current environment
-//     } 
-//   });
-// }
-
-// startApp();

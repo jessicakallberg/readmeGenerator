@@ -1,29 +1,24 @@
-# Fun Time
+# Fun Times!
     
 ## Description 
-    just some pretty cool peeps relaxing having a good time
+    Small project on individuals and their simplistic lives illustrating fun times
 
 ## Installation 
-    no steps just hop on the website and have a good time
+    No installtion needed
     
 
-## Credits 
-    nope just mua
-    
-
-## License 
-    MIT
+## License
+        MIT
     
     
-
 ## Badges 
-    many my biggest is the badge of love!
+    No badges
     
 
 ## Contribution 
-    undefined
+    Follows Contributors Covenant 2.1 because their is more than one contributor in this project or additional contributors allowed to add
     
 
 ## Tests 
-    not at the moment
+    No tests
     
