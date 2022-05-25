@@ -1,28 +1,20 @@
 # ReadMe Generator
 
 ## Description
+This readme generator is an application that can be used to quickly put together a readme.md.  Without having to worry about the proper questions or markdown language.  This application will autogenerate this automatically for you.  I did struggle with the proper coding to generate a badge.  In the future I'd like to go back to this project and complete this.
 
 
 
-
-## Installation
-
-
+## Installation/Video Link
+Fork this project and initiate node index.js, follow instructions below in walk through video 
 
 
-
-## Usage
-
-
-
-
-
-
+[VIDEO-LINK](/video/videolink/video1437350726.mp4)
 
 ## Credits
 
-<a href="https://github.com/jessicakallberg/weatherApp/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=jessicakallberg/weatherApp" />
+<a href="https://github.com/jessicakallberg/readmeGenerator/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=jessicakallberg/readmeGenerator" />
 </a>
 
 * Jessica K - https://github.com/jessicakallberg

@@ -1,10 +1,10 @@
-# Fun Times!
+# Fun times!
     
 ## Description 
-    Small project on individuals and their simplistic lives illustrating fun times
+    Detail on how to relax and have a good time!
 
 ## Installation 
-    No installtion needed
+    Would need to fork this repo and initiate npm to have dependencies
     
 
 ## License
@@ -20,5 +20,5 @@
     
 
 ## Tests 
-    No tests
+    No test needed
     
