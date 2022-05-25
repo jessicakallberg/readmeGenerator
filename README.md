@@ -1,10 +1,10 @@
-# Fun times!
+# Fun Times!
     
 ## Description 
-    Detail on how to relax and have a good time!
+    About relaxing and having a fun time!
 
 ## Installation 
-    Would need to fork this repo and initiate npm to have dependencies
+    No installation needed
     
 
 ## License
@@ -20,5 +20,5 @@
     
 
 ## Tests 
-    No test needed
+    No test!
     

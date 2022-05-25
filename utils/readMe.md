@@ -9,7 +9,7 @@ This readme generator is an application that can be used to quickly put together
 Fork this project and initiate node index.js, follow instructions below in walk through video 
 
 
-[VIDEO-LINK](/video/videolink/video1437350726.mp4)
+[VIDEO-LINK](https://youtu.be/omkfwvEVF6c)
 
 ## Credits
 
